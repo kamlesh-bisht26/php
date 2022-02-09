@@ -3,7 +3,7 @@
   <title>PHP Test</title>
  </head>
  <body>
- <?php echo '<p>Heljhjkhjklo WWWWWW</p>'; 
+ <?php echo '<p>Facebook</p>'; 
 
 ?> 
  </body>
